@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">e-Kantin RPL24</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="silakan_pilih_menu">Silakan Pilih Menu:</string>
+    <string name="email">e-mail: riansmkn24@gmail.com</string>
+    <string name="namaqu">Rian Pioriandana</string>
+    <string name="harga">10000</string>
+    <string name="pesan">Pesan</string>
+    <string name="rupiah">Rp.</string>
+    <string name="ceban">10000</string>
+</resources>
